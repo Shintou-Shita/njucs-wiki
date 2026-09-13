@@ -19,7 +19,9 @@ nav:
   - 基本技能: skills.md
   - 课程:
     - 第一学期:
-      - 微积分1: Course/Calculus1.md
+      - 微积分1: Course/Calculus I.md
+    - 第二学期:
+      - 离散数学1: Course/Discrete Mathematics I.md
   - 友链: links.md
 
 markdown_extensions:
