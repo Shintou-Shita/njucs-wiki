@@ -20,6 +20,7 @@ nav:
   - 课程:
     - 第一学期:
       - 微积分1: Course/Calculus I.md
+      - 计算机程序的构造与解释: Course/SICP.md
     - 第二学期:
       - 离散数学1: Course/Discrete Mathematics I.md
   - 友链: links.md
