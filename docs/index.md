@@ -2,7 +2,7 @@
 
 Welcome to Nanjing Unversity Computer Science Wiki
 
-欢迎来到 NJUCS Wiki！
+欢迎来到 [NJUCS Wiki](https://wiki.njucs.net/)！
 
 ## 这是什么
 
